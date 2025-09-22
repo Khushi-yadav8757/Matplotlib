@@ -6,7 +6,6 @@ y2 = [1, 4, 9, 16, 25]
 plt.subplot(1, 2, 1)   
 plt.plot(x, y1, "r-")
 plt.title("Linear")
-
 plt.subplot(1, 2, 2)  
 plt.plot(x, y2, "b--")
 plt.title("Square")
